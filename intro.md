@@ -7,3 +7,5 @@ Nikolas Werner Jacobs, Gibt es demokratische Ikonographien?, in: Politische Ikon
 # Impressum
 
 Dieses Projekt wurde an der Fachhochschule Potsdam im Rahmen des Kurses: Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert. Mithilfe der Technik des [Urban Complexity Lab](https://uclab.fh-potsdam.de/) wurde das Projekt von Emma-Luisa Sachse unter der Leitung von Dr. Sabine de Günther entwickelt.
+
+Inhalte, welche wörtlich zitiert wurden sind in Anführungszeichen gesetzt. Alle Stellen sind aus dem Werk von Nikolas Werner Jacobs zurück zuführen und entnommen.
